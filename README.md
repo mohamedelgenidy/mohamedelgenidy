@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on:<br>A Computer Vision project classifying tomato images (using EfficientNetB4).<br>Deepening my understanding of Generative AI models.<br><br>👯 I'm looking to collaborate on:<br>Open-source NLP projects (Chatbots, Translation).<br><br>🤝 I'm looking for help with:<br>Advanced MLOps techniques and connecting with AI/ML mentors.<br><br>🌱 I'm currently learning:<br>Advanced Generative AI techniques and Transformer architectures.<br><br>💬 Ask me about:<br>Python, TensorFlow, PyTorch, NLP, & Computer Vision.<br><br>⚡ Fun fact:<br>My first chatbot learned to "talk" by analyzing thousands of movie scripts!
 
-
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdullah-70918728b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.g10mohamed@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://mohamedelgenidy.github.io) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201550124329) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
 # 💻 Tech Stack:
